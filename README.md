@@ -46,9 +46,9 @@ This study planner is a web application built using HTML5, CSS3, and JavaScript.
 ## Screenshots
 
 Include screenshots or GIFs demonstrating the main features and user interface of your study planner.
-![Study Planner Desktop View](./images/desktop.png)
+![Desktop View](https://github.com/mdshoeb2050/Study-Planner/assets/91770975/0f29b361-c1c5-4273-89cf-b79a592cde75)
 
-![Study Planner Mobile View](./images/mobileView.png)
+![Mobile View](https://github.com/mdshoeb2050/Study-Planner/assets/91770975/a9122fc7-bb24-453d-ab1e-bfffabf71601)
 ## Contributing
 
 If you'd like to contribute to the project, follow these steps:
