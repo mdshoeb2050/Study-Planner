@@ -46,6 +46,7 @@ This study planner is a web application built using HTML5, CSS3, and JavaScript.
 ## Screenshots
 
 Include screenshots or GIFs demonstrating the main features and user interface of your study planner.
+![Study Planner Screenshot]()
 
 ## Contributing
 
@@ -67,5 +68,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
-For any questions or feedback, contact [Your Name] at [your.email@example.com].
+For any questions or feedback, contact [Your Name] at [mdshoeb1024@gmail.com].
 
