@@ -37,16 +37,16 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   
     // Example tasks
-    addTask("Read Chapter 1");
-    addTask("Complete Math Exercises");
-    addTask("Review Vocabulary");
-    addTask("Complete DSA");
-    addTask("Complete WebDev");
-    addTask("Read Chapter 1");
-    addTask("Complete Math Exercises");
-    addTask("Review Vocabulary");
-    addTask("Complete DSA");
-    addTask("Complete WebDev");
+    addTask("Task-1");
+    addTask("Task-2");
+    addTask("Task-3");
+    addTask("Task-4");
+    addTask("Task-5");
+    addTask("Task-6");
+    addTask("Task-7");
+    addTask("Task-8");
+    addTask("Task-9");
+    addTask("Task-10");
     // You can add more tasks as needed
   });
   

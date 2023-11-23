@@ -46,8 +46,9 @@ This study planner is a web application built using HTML5, CSS3, and JavaScript.
 ## Screenshots
 
 Include screenshots or GIFs demonstrating the main features and user interface of your study planner.
-![Study Planner Screenshot]()
+![Study Planner Desktop View](https://drive.google.com/file/d/1Xu9fK7rXJnFc2Zq85JUGQhlwWBtwrSqn/view?usp=drive_link)
 
+![Study Planner Mobile View](https://drive.google.com/file/d/1V47Ic1EY5WkR_sWeo7CBWOs00ADnlBRr/view?usp=drive_link)
 ## Contributing
 
 If you'd like to contribute to the project, follow these steps:
