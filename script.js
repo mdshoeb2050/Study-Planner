@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const progressBar = document.getElementById("progressBar");
     const progressText = document.getElementById("progressText");
   
+    // update progress
     function updateProgress() {
       const tasks = document.querySelectorAll(".task");
       const totalTasks = tasks.length;
@@ -13,6 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
       progressText.textContent = `${Math.round(progress)}% complete`;
     }
   
+    // toggle tasks
     function toggleTaskCompletion() {
       this.classList.toggle("completed");
       updateProgress();
