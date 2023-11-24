@@ -20,6 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
       updateProgress();
     }
   
+    // create task Element
     function createTaskElement(taskName) {
       const taskElement = document.createElement("div");
       taskElement.className = "task";
@@ -32,6 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
       return taskElement;
     }
   
+    // add Task
     function addTask(taskName) {
       const taskElement = createTaskElement(taskName);
       tasksContainer.appendChild(taskElement);
